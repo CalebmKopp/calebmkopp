@@ -12,7 +12,7 @@ type SoftwareEngineer struct {
     stateLivingIn   string  `default:"Minnesota"`
 }
 func (engineer *SoftwareEngineer) sayHi() {
-    fmt.Println("Hello! I am", engineer.name, " Thanks for stopping by!")
+    fmt.Println("Hello! I am", engineer.name, " thanks for stopping by!")
 }
 func main () {
     me := SoftwareEngineer{role: "DevOps Engineer"}
