@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hello there 👋
+
+```go
+#!/usr/bin/go
+
+import (
+    "fmt"
+)
+type SoftwareEngineer struct {
+    name            string  `default:"Caleb Kopp"`
+    role            string  `default:"Software Engineer"`
+    stateLivingIn   string  `default:"Minnesota"`
+}
+func (engineer *SoftwareEngineer) sayHi() {
+    fmt.Println("Hello! I am", engineer.name, " Thanks for stopping by!")
+}
+func main () {
+    me := SoftwareEngineer{role: "DevOps Engineer"}
+    me.sayHi()
+}
+
+```
 
 <!--
 **CalebmKopp/calebmkopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
