@@ -1,4 +1,4 @@
-### 👋 Hey there 👋
+## 👋 Hey there 👋
 ### 🔷 I am a Senior Platform Engineer, currently working at Optum 🟠
 ---
 #### 🏋️‍♀️ Every day, I am working with
