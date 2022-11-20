@@ -4,7 +4,7 @@
 
 #### Every day, I am working with 🏋️‍♀️
 - #### React ⚛️ 💻 📘
-- #### Kubernetes ☸ 🌌 🐱
+- #### Kubernetes ☸ 🌌 🐶
 - #### Various DevOps tools 📊 ☁️ ⚙️
 
 #### Every day, I am writing in 👨‍💻
