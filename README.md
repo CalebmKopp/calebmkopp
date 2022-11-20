@@ -1,18 +1,18 @@
 ## 👋 Hello there 👋
 
-### I am a Senior Platform Engineer 🔷, currently working at Optum 🟠
+### 🔷 I am a Senior Platform Engineer, currently working at Optum 🟠
 
-#### Every day, I am working with 🏋️‍♀️
+#### 🏋️‍♀️ Every day, I am working with
 - #### React ⚛️ 💻 📘
 - #### Kubernetes ☸ 🌌 🐶
 - #### Various DevOps tools 🔮 📊 ☁️
 
-#### Every day, I am writing in 👨‍💻
+#### 👨‍💻 Every day, I am writing in
 - #### Typescript 💪 📦 📋
 - #### Golang 💽 🏃 💨
 - #### Terraform 📜 ➡️ 🎂
 
-#### Every day, I am winning on 🎉
+#### 🎉 Every day, I am winning on
 - #### bettering myself as an engineer 👷 🥗 ✅
 - #### making the health system work better for everyone 🧑‍⚕️ 🖇️ 😷
 - #### shaping the realm of technology to be more accessible, for all people 🧓 🤵 🧒
