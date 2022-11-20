@@ -13,9 +13,9 @@
 - #### Terraform 📜 ➡️ 🎂
 
 #### 🎉 Every day, I am winning on
-- #### bettering myself as an engineer 👷 🥗 ✅
+- #### maturing as an engineer 👷 🥗 ✅
 - #### making the health system work better for everyone 🧑‍⚕️ 🖇️ 😷
-- #### shaping the realm of technology to be more accessible, for all people 🧓 🤵 🧒
+- #### molding the realm of technology to be more accessible, for all people 🧓 🤵 🧒
 
 <!--
 **CalebmKopp/calebmkopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
