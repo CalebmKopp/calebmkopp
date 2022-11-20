@@ -15,7 +15,7 @@ func (engineer *SoftwareEngineer) sayHi() {
     fmt.Println("Hello! I am", engineer.name, " thanks for stopping by!")
 }
 func main () {
-    me := SoftwareEngineer{role: "Platform Engineer"}
+    me := SoftwareEngineer{role: "Sr. Platform Engineer"}
     me.sayHi()
 }
 
