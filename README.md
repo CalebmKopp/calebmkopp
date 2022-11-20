@@ -1,21 +1,21 @@
-### Hello there 👋
+## 👋 Hello there 👋
 
-#### I am a Senior Platform Engineer 💪, currently working at Optum
+### I am a Senior Platform Engineer 🔷, currently working at Optum 🟠
 
-##### Every day, I am working with 🏋️‍♀️
-- React ⚛️ 💻 📘
-- Kubernetes ☸ 🌌 🐱
-- Various DevOps tools 📊 ☁️ ⚙️
+#### Every day, I am working with 🏋️‍♀️
+- ##### React ⚛️ 💻 📘
+- ##### Kubernetes ☸ 🌌 🐱
+- ##### Various DevOps tools 📊 ☁️ ⚙️
 
 ##### Every day, I am writing in 👨‍💻
-- Typescript 💪 📦 📋
-- Golang 💽 🏃 💨
-- Terraform 📜 ➡️ 🎂
+- ##### Typescript 💪 📦 📋
+- ##### Golang 💽 🏃 💨
+- ##### Terraform 📜 ➡️ 🎂
 
 ##### Every day, I am winning on 🎉
-- bettering myself as an engineer 👷 🥗 ✅
-- making the health system work better for everyone 🧑‍⚕️ 🖇️ 😷
-- shaping the realm of technology to be more accessible, for all people 🧓 🤵 🧒
+- ##### bettering myself as an engineer 👷 🥗 ✅
+- ##### making the health system work better for everyone 🧑‍⚕️ 🖇️ 😷
+- ##### shaping the realm of technology to be more accessible, for all people 🧓 🤵 🧒
 
 <!--
 **CalebmKopp/calebmkopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
