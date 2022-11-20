@@ -5,7 +5,7 @@
 #### Every day, I am working with 🏋️‍♀️
 - #### React ⚛️ 💻 📘
 - #### Kubernetes ☸ 🌌 🐶
-- #### Various DevOps tools 📊 ☁️ ⚙️
+- #### Various DevOps tools 🔮 📊 ☁️
 
 #### Every day, I am writing in 👨‍💻
 - #### Typescript 💪 📦 📋
