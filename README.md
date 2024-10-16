@@ -2,6 +2,7 @@
 ### 🔷 I am a Senior Platform Engineer, currently working at Optum 🟠
 ---
 #### 🏋️‍♀️ Every day, I am working with
+- ##### Kafka 🚰📡📝
 - ##### React ⚛️ 💻 📘
 - ##### Kubernetes ☸ 🌌 🐶
 - ##### Various DevOps tools 🔮 📊 ☁️
@@ -10,9 +11,11 @@
 - ##### Typescript 💪 📦 📋
 - ##### Golang 💽 🏃 💨
 - ##### Terraform 📜 ➡️ 🎂
+- ##### Python 🐍 📥 ©️
 ---
 #### 🎉 Every day, I am winning on
 - ##### maturing as an engineer 👷 🥗 ✅
+- ##### serving thousands of customers 🐟 🥖 🧺
 - ##### making the health system work better for everyone 🧑‍⚕️ 🖇️ 😷
 - ##### molding the realm of technology to be more accessible, for all people 🧓 🤵 🧒
 
